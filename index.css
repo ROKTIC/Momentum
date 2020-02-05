@@ -10,7 +10,7 @@ body{
 }
 
 @keyframes fadeIn {
-	froma{
+	from{
 		opacity: 0;
 	}
 	to{
